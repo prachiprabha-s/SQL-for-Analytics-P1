@@ -16,23 +16,23 @@ Entity Relationship Diagram:
 
 Case Study Questions:
 
-What is the total revenue generated from each product category?
+1) What is the total revenue generated from each product category?
 
-Which customer made the highest number of transactions?
+2) Which customer made the highest number of transactions?
 
-List products that have never been sold.
+3) List products that have never been sold.
 
-What is the average transaction value for each country?
+4) What is the average transaction value for each country?
 
-Which product category is most popular in terms of quantity sold?
+5) Which product category is most popular in terms of quantity sold?
 
-Identify customers who have spent more than $1000 in total.
+6) Identify customers who have spent more than $1000 in total.
 
-How many transactions involved purchasing more than one item?
+7) How many transactions involved purchasing more than one item?
 
-What is the difference in total sales between 'Electronics' and 'Furniture' categories?
+8) What is the difference in total sales between 'Electronics' and 'Furniture' categories?
 
-Which country has the highest average spending per transaction?
+9) Which country has the highest average spending per transaction?
 
-For each product, calculate the total revenue and categorize its sales volume as 'High' (more than $500), 'Medium' 
+10) For each product, calculate the total revenue and categorize its sales volume as 'High' (more than $500), 'Medium' 
 ($100-$500), or 'Low' (less than $100).
