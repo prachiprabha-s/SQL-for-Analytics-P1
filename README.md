@@ -47,6 +47,7 @@ This project involves an SQL-based e-commerce analysis focusing on sales perform
 
 Entity Relationship Diagram:
 
+![Blank diagram (1)](https://github.com/prachiprabha-s/SQL-for-Analytics-P1/assets/168185906/b3d96fa1-06f9-4fd1-9956-4bc41e7beb4a)
 
 Case Study Questions:
 
